@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders.frag</file>
+        <file>shaders.vert</file>
+        <file>image/11.png</file>
+        <file>image/22.png</file>
+    </qresource>
+</RCC>
